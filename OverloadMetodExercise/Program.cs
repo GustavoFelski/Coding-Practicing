@@ -23,13 +23,11 @@ namespace OverloadMetodExercise
         }
 
         static double Soma(double h, double j){
-            double r;
-            return r = h + j;
+            return h + j;
         }
         static double Soma(double h, double j, double k)
         {
-            double r;
-            return r = h + j + k;
+            return h + j + k;
         }
     }
 }

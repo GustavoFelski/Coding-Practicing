@@ -7,7 +7,12 @@ namespace RPGzinho.Character
     public class CreateCharacter
     {
 
-        static Character Character = new Character();
+        private static Character Character = new Character();
+
+        public Character CharacterUpdate {
+            get { return Character; } set { Character = value;} 
+        }
+
         public void ShowCreation()
         {
             bool opc = true;
@@ -39,6 +44,7 @@ namespace RPGzinho.Character
                             Character.CriticalChanceUpdate = 10;
                             Character.ResistenceUpdate = 30;
                             Character.SpeedUpdate = -2;
+                            Character.PotionsUpdate = 2;
                             opc = true;
                             break;
                         }
@@ -49,6 +55,7 @@ namespace RPGzinho.Character
                             Character.CriticalChanceUpdate = 10;
                             Character.ResistenceUpdate = 10;
                             Character.SpeedUpdate = -1;
+                            Character.PotionsUpdate = 5;
                             opc = true;
                             break;
                         }
@@ -59,6 +66,7 @@ namespace RPGzinho.Character
                             Character.CriticalChanceUpdate = 30;
                             Character.ResistenceUpdate = 20;
                             Character.SpeedUpdate = -0;
+                            Character.PotionsUpdate = 3;
                             opc = true;
                             break;
                         }
@@ -67,6 +75,7 @@ namespace RPGzinho.Character
                         opc = false;
                         break;
                 }
+                
             } while (opc != true);
         #endregion
 

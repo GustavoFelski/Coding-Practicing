@@ -4,19 +4,18 @@ using System.Text;
 
 namespace RPGzinho.Character
 {
-    class Character
+    public class Character
     {
         private string Name;
         private string Classe;
         private double Life;
         private double Resistence;
-    
+        private int Potions;
         private int Speed;
         private double CriticalChance;
         private double CriticalDamage;
 
-        //Gets and Sets
-        #region
+        #region Gets and Sets
         public string CharacterName
         {
             get { return Name; }
@@ -51,6 +50,7 @@ namespace RPGzinho.Character
             get { return CriticalDamage; }
             set { CriticalDamage = value; }
         }
+        public int PotionsUpdate { get; set; }
         #endregion
         public void Attack() { }
         public void Defence() { }

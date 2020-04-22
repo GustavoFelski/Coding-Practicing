@@ -8,7 +8,10 @@ namespace RPGzinho
     {
         //Creation from enemy
         
-        //Combate loop
+
+        //combat rank
+
+
         //Reward? 
     }
 }

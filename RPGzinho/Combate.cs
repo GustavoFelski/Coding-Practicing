@@ -4,7 +4,11 @@ using System.Text;
 
 namespace RPGzinho
 {
-    class Combate
+    public class Combate
     {
+        //Creation from enemy
+        
+        //Combate loop
+        //Reward? 
     }
 }

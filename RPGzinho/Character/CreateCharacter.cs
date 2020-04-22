@@ -45,6 +45,7 @@ namespace RPGzinho.Character
                             Character.ResistenceUpdate = 30;
                             Character.SpeedUpdate = -2;
                             Character.PotionsUpdate = 2;
+                            Character.MPupdade = 2;
                             opc = true;
                             break;
                         }
@@ -56,6 +57,7 @@ namespace RPGzinho.Character
                             Character.ResistenceUpdate = 10;
                             Character.SpeedUpdate = -1;
                             Character.PotionsUpdate = 5;
+                            Character.MPupdade = 6;
                             opc = true;
                             break;
                         }
@@ -67,6 +69,7 @@ namespace RPGzinho.Character
                             Character.ResistenceUpdate = 20;
                             Character.SpeedUpdate = -0;
                             Character.PotionsUpdate = 3;
+                            Character.MPupdade = 4;
                             opc = true;
                             break;
                         }

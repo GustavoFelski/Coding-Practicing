@@ -23,11 +23,12 @@ namespace RPGzinho.Character
         //This function is to display characters information 
         public void Info()
         {
-            Console.WriteLine($"HP: {HP} | Potions: {character.PotionsUpdate.ToString()} | " +
-                $"Classe:{character.ClassCharacter} | " +
-                $"Chance Critica {character.CriticalChanceUpdate.ToString()} %\n" +
-                $"Resistencia a Dano: {character.ResistenceUpdate.ToString()} | " +
-                $"Velocidade: {character.SpeedUpdate.ToString()}" );
+            Console.WriteLine(  $"HP: {HP} | Potions HP: {character.PotionsUpdate.ToString()} | " +
+                                $"Potion MP: {character.MPupdade.ToString()}| " +
+                                $"Classe:{character.ClassCharacter} | " +
+                                $"Chance Critica {character.CriticalChanceUpdate.ToString()} %\n" +
+                                $"Resistencia a Dano: {character.ResistenceUpdate.ToString()} | " +
+                                $"Velocidade: {character.SpeedUpdate.ToString()}" );
         }
     }
 }

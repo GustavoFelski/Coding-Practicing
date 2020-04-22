@@ -9,13 +9,12 @@ namespace RPGzinho.Character
 
         //CharacterCreate
         CreateCharacter NewCharacter = new CreateCharacter();
-        
+        CharacterInfo characterInfo = new CharacterInfo();
+
         //game loop
         public void gameLoop(){
             //Create character part
             NewCharacter.ShowCreation();
-            CharacterInfo characterInfo = new CharacterInfo();
-
             do
             {
                 //Character Info

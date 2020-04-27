@@ -8,6 +8,7 @@ namespace RPGzinho.Character
         {
             Game NewGame = new Game();
             NewGame.gameLoop();
+            
         }
     }
 }

@@ -15,7 +15,7 @@ namespace RPGzinho
             this.size = 0;
             this._first = new FighterPosition();
             this._first.fighterUpdate = null;
-            this._first.NextFighterUpdate = null;
+            this._first.NextFighterUpdate = _first;
             _next = _first;
         }
 
@@ -27,18 +27,20 @@ namespace RPGzinho
         {
             FighterPosition fighterPosition = new FighterPosition();
             fighterPosition.fighterUpdate = fighter;
-            
-            if(_next == _first)
+
+            //Add first on list
+            if (combateRankEmpty())
             {
                 _first = fighterPosition;
+
             }
+            //add next on list
             else
             {
                 _next = fighterPosition;
             }
-
-            _next = fighterPosition;
-
+            _next.NextFighterUpdate = _first;
+            this.size++;
         }
 
     }

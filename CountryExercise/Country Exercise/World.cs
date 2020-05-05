@@ -13,7 +13,7 @@ namespace WorldNamespace
         public Continents ContinentsName { get {return continents ;} set {this.continents = value;} }
     }
     
-    class country : World
+    class Country : World
     {
         private string countryNames;
         private string capitals;
@@ -22,17 +22,24 @@ namespace WorldNamespace
 
         public string CountryNames { get { return countryNames; } set { this.countryNames = value; } }
         public string Capitals { get { return capitals; } set { this.capitals = value; } }
+        public string Currency { get; set; }
         public CountryLanguages CountryLanguages { get { return countryLanguages; } set { this.countryLanguages = value; } }
 
-        public country()
+        public Country()
         {
             capitals = "unknown";
             countryNames = "unknown";
         }
 
-        public void sayHi()
+        public void sayHi(string planetName)
         {
-            
+            Console.WriteLine($"Welcome there from {planetName}");
+
+        }
+        public void sayHi(string Country, string County, string languageOne, string languageTwo)
+        {
+            Console.WriteLine($"Hello pal from {Country}, your county is: {County} \nyour Country has two Languages,\nOne is: {languageOne}\nand second is: {languageTwo}.");
+
         }
     }
 
@@ -42,7 +49,7 @@ namespace WorldNamespace
         private string secondLanguage;
 
         public string FirstLanguage { get { return firstLanguage; } set { this.firstLanguage = value; } }
-        public string SecondLanguage { get { return SecondLanguage; } set { this.SecondLanguage = value; } }
+        public string SecondLanguage { get { return secondLanguage; } set { this.secondLanguage = value; } }
     }
 
     enum Continents

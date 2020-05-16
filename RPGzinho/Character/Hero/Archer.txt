@@ -1,0 +1,10 @@
+Name= "Archer";
+Life=100;
+Damage=20
+Resistence=20;
+Speed=0;
+CriticalChance=10;
+MagicPoints=4;
+LightAttckName="Throw Quick Arrow";
+HeavyAttackName="Powered Arrow";
+Potions=3;

@@ -1,0 +1,10 @@
+Name= "Mage";
+Life=50;
+Damage=30
+Resistence=10;
+Speed=-1;
+CriticalChance=10;
+MagicPoints=6;
+LightAttckName="Hit With the Staff";
+HeavyAttackName="Fire Ball";
+Potions=5;

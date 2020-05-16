@@ -1,0 +1,10 @@
+Name= "warrior";
+Life=150;
+Damage=10
+Resistence=30;
+Speed=-2;
+CriticalChance=10;
+MagicPoints=2;
+LightAttckName="Slap";
+HeavyAttackName="Serius Slap of Justice";
+Potions= 2;

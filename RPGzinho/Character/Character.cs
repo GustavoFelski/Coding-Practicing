@@ -7,7 +7,7 @@ namespace RPGzinho.Character
     /// <summary>
     /// Class Character attributes and Attacks
     /// </summary>
-    public class Character
+    public class Character : ICharacter
     {
         private string Name;
         private string Classe;

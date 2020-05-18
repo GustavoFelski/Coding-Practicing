@@ -4,11 +4,21 @@ using System.Text;
 
 namespace RPGzinho.Character
 {
-    public class CreateCharacter : Character
+    public class CreateCharacter : ICharacter
     {
         //TODO Create a interface from character and Character create 
         //TODO Create a Overload to create a enemy charaters
         private static Character Character = new Character();
+
+        public string ClasseUpdate { get ; set; }
+        public double CriticalChanceUpdate { get ; set ; }
+        public double DamageUpdate { get; set; }
+        public double LifeUpdate { get ; set ; }
+        public int MagicPointsUpdate { get ; set ; }
+        public string NameUpdate { get ; set; }
+        public int PotionsUpdate { get ; set ; }
+        public double ResistenceUpdate { get; set ; }
+        public int SpeedUpdate { get ; set ; }
 
         public void ShowCreation()
         {

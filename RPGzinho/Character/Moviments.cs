@@ -6,6 +6,8 @@ namespace RPGzinho.Character
 {
     class Moviments
     {
+        //TODO Create a interface form character and Combate
+        
         public double LightAttack()
         {
             double DamageAttack;

@@ -1,4 +1,5 @@
 Name=Werewolf;
+Classe=Werewolf;
 Life=150;
 Damage=35;
 Resistence=20;

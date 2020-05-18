@@ -1,4 +1,5 @@
 Name=Goblin;
+Classe=Goblin;
 Life=50;
 Damage=15;
 Resistence=10;

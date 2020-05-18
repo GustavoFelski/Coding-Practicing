@@ -4,34 +4,33 @@ using System.Text;
 
 namespace RPGzinho.Character
 {
-    public class CreateCharacter
+    public class CreateCharacter : Character
     {
-
+        //TODO Create a interface from character and Character create 
+        //TODO Create a Overload to create a enemy charaters
         private static Character Character = new Character();
-
-        public Character CharacterUpdate {
-            get { return Character; } set { Character = value;} 
-        }
 
         public void ShowCreation()
         {
             bool opc = true;
             string Aux;
             
-            
+            // Chosse the adventures name
             #region Name
             Console.WriteLine("Bem Vindo Aventureiro\nQual o seu nome?");
-            Character.CharacterName = Console.ReadLine();
+            Character.NameUpdate = Console.ReadLine();
             #endregion
 
             do {
             #region Chossing the class
-            Console.WriteLine($"{Character.CharacterName}, neste jogo você tem a opção de escolher entre as classes\n" +
+            //TODO Change this description to english 
+            Console.WriteLine($"{Character.NameUpdate}, neste jogo você tem a opção de escolher entre as classes\n" +
                 $"Guerreiro: Maior vida e resistencia porem o dano é o mais baixo dentre as demais classes\n" +
                 $"Mago: Maior dano e dano dano critico, tem uma chance critica baixa e uma vida e resistencia baixa\n" +
                 $"Ladino: Maior chance critica, dano critico e vida moderados e baixa resistencia\n" +
                 $"Escreva o nome da classe que vc deseja jogar");
 
+                //TODO change this for read a file with the class hero parameters 
             Aux = Console.ReadLine();
             Aux.ToUpper();
 

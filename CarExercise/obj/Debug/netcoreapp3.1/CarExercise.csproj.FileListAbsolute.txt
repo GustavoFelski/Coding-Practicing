@@ -1,0 +1,11 @@
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\CarExercise\bin\Debug\netcoreapp3.1\CarExercise.exe
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\CarExercise\bin\Debug\netcoreapp3.1\CarExercise.deps.json
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\CarExercise\bin\Debug\netcoreapp3.1\CarExercise.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\CarExercise\bin\Debug\netcoreapp3.1\CarExercise.runtimeconfig.dev.json
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\CarExercise\bin\Debug\netcoreapp3.1\CarExercise.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\CarExercise\bin\Debug\netcoreapp3.1\CarExercise.pdb
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\CarExercise\obj\Debug\netcoreapp3.1\CarExercise.csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\CarExercise\obj\Debug\netcoreapp3.1\CarExercise.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\CarExercise\obj\Debug\netcoreapp3.1\CarExercise.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\CarExercise\obj\Debug\netcoreapp3.1\CarExercise.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\CarExercise\obj\Debug\netcoreapp3.1\CarExercise.pdb

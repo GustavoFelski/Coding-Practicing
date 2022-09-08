@@ -1,0 +1,15 @@
+C:\Users\gusta\source\repos\CountryExercise\CountryExercise\bin\Debug\net6.0\CountryExercise.exe
+C:\Users\gusta\source\repos\CountryExercise\CountryExercise\bin\Debug\net6.0\CountryExercise.deps.json
+C:\Users\gusta\source\repos\CountryExercise\CountryExercise\bin\Debug\net6.0\CountryExercise.runtimeconfig.json
+C:\Users\gusta\source\repos\CountryExercise\CountryExercise\bin\Debug\net6.0\CountryExercise.dll
+C:\Users\gusta\source\repos\CountryExercise\CountryExercise\bin\Debug\net6.0\CountryExercise.pdb
+C:\Users\gusta\source\repos\CountryExercise\CountryExercise\obj\Debug\net6.0\CountryExercise.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\CountryExercise\CountryExercise\obj\Debug\net6.0\CountryExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\CountryExercise\CountryExercise\obj\Debug\net6.0\CountryExercise.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\CountryExercise\CountryExercise\obj\Debug\net6.0\CountryExercise.AssemblyInfo.cs
+C:\Users\gusta\source\repos\CountryExercise\CountryExercise\obj\Debug\net6.0\CountryExercise.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\CountryExercise\CountryExercise\obj\Debug\net6.0\CountryExercise.dll
+C:\Users\gusta\source\repos\CountryExercise\CountryExercise\obj\Debug\net6.0\refint\CountryExercise.dll
+C:\Users\gusta\source\repos\CountryExercise\CountryExercise\obj\Debug\net6.0\CountryExercise.pdb
+C:\Users\gusta\source\repos\CountryExercise\CountryExercise\obj\Debug\net6.0\CountryExercise.genruntimeconfig.cache
+C:\Users\gusta\source\repos\CountryExercise\CountryExercise\obj\Debug\net6.0\ref\CountryExercise.dll

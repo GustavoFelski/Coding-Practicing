@@ -1,0 +1,15 @@
+C:\Users\gusta\source\repos\WorkingWithClasses\WorkingWithClasses\bin\Debug\net6.0\WorkingWithClasses.exe
+C:\Users\gusta\source\repos\WorkingWithClasses\WorkingWithClasses\bin\Debug\net6.0\WorkingWithClasses.deps.json
+C:\Users\gusta\source\repos\WorkingWithClasses\WorkingWithClasses\bin\Debug\net6.0\WorkingWithClasses.runtimeconfig.json
+C:\Users\gusta\source\repos\WorkingWithClasses\WorkingWithClasses\bin\Debug\net6.0\WorkingWithClasses.dll
+C:\Users\gusta\source\repos\WorkingWithClasses\WorkingWithClasses\bin\Debug\net6.0\WorkingWithClasses.pdb
+C:\Users\gusta\source\repos\WorkingWithClasses\WorkingWithClasses\obj\Debug\net6.0\WorkingWithClasses.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\WorkingWithClasses\WorkingWithClasses\obj\Debug\net6.0\WorkingWithClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\WorkingWithClasses\WorkingWithClasses\obj\Debug\net6.0\WorkingWithClasses.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\WorkingWithClasses\WorkingWithClasses\obj\Debug\net6.0\WorkingWithClasses.AssemblyInfo.cs
+C:\Users\gusta\source\repos\WorkingWithClasses\WorkingWithClasses\obj\Debug\net6.0\WorkingWithClasses.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\WorkingWithClasses\WorkingWithClasses\obj\Debug\net6.0\WorkingWithClasses.dll
+C:\Users\gusta\source\repos\WorkingWithClasses\WorkingWithClasses\obj\Debug\net6.0\refint\WorkingWithClasses.dll
+C:\Users\gusta\source\repos\WorkingWithClasses\WorkingWithClasses\obj\Debug\net6.0\WorkingWithClasses.pdb
+C:\Users\gusta\source\repos\WorkingWithClasses\WorkingWithClasses\obj\Debug\net6.0\WorkingWithClasses.genruntimeconfig.cache
+C:\Users\gusta\source\repos\WorkingWithClasses\WorkingWithClasses\obj\Debug\net6.0\ref\WorkingWithClasses.dll

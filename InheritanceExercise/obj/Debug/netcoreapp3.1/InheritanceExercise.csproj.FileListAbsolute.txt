@@ -1,0 +1,11 @@
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\InheritanceExercise\bin\Debug\netcoreapp3.1\InheritanceExercise.exe
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\InheritanceExercise\bin\Debug\netcoreapp3.1\InheritanceExercise.deps.json
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\InheritanceExercise\bin\Debug\netcoreapp3.1\InheritanceExercise.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\InheritanceExercise\bin\Debug\netcoreapp3.1\InheritanceExercise.runtimeconfig.dev.json
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\InheritanceExercise\bin\Debug\netcoreapp3.1\InheritanceExercise.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\InheritanceExercise\bin\Debug\netcoreapp3.1\InheritanceExercise.pdb
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\InheritanceExercise\obj\Debug\netcoreapp3.1\InheritanceExercise.csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\InheritanceExercise\obj\Debug\netcoreapp3.1\InheritanceExercise.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\InheritanceExercise\obj\Debug\netcoreapp3.1\InheritanceExercise.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\InheritanceExercise\obj\Debug\netcoreapp3.1\InheritanceExercise.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\InheritanceExercise\obj\Debug\netcoreapp3.1\InheritanceExercise.pdb

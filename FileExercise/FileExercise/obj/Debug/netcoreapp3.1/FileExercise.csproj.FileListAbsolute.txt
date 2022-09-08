@@ -1,0 +1,10 @@
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\FileExercise\FileExercise\bin\Debug\netcoreapp3.1\FileExercise.exe
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\FileExercise\FileExercise\bin\Debug\netcoreapp3.1\FileExercise.deps.json
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\FileExercise\FileExercise\bin\Debug\netcoreapp3.1\FileExercise.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\FileExercise\FileExercise\bin\Debug\netcoreapp3.1\FileExercise.runtimeconfig.dev.json
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\FileExercise\FileExercise\bin\Debug\netcoreapp3.1\FileExercise.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\FileExercise\FileExercise\bin\Debug\netcoreapp3.1\FileExercise.pdb
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\FileExercise\FileExercise\obj\Debug\netcoreapp3.1\FileExercise.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\FileExercise\FileExercise\obj\Debug\netcoreapp3.1\FileExercise.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\FileExercise\FileExercise\obj\Debug\netcoreapp3.1\FileExercise.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\FileExercise\FileExercise\obj\Debug\netcoreapp3.1\FileExercise.pdb

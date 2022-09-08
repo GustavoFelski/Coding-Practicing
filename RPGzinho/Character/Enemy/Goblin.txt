@@ -1,0 +1,10 @@
+Name=Goblin;
+Classe=Goblin;
+Life=50;
+Damage=15;
+Resistence=10;
+Speed=0;
+CriticalChance=20;
+MagicPoints=4;
+LightAttckName="Slap with a Rust Knife"
+HeavyAttackName="Improvised Dynamite";

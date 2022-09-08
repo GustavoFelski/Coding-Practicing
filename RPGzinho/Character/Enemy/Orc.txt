@@ -1,0 +1,10 @@
+Name=Orc;
+Classe=Orc;
+Life=125;
+Damage=25;
+Resistence=30;
+Speed=-3;
+CriticalChance=20;
+MagicPoints=3;
+LightAttckName="Hard Punch"
+HeavyAttackName="Smashes Skull";

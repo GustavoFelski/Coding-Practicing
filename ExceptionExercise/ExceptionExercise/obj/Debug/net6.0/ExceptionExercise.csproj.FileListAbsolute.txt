@@ -1,0 +1,15 @@
+C:\Users\gusta\source\repos\ExceptionExercise\ExceptionExercise\obj\Debug\net6.0\ExceptionExercise.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\ExceptionExercise\ExceptionExercise\obj\Debug\net6.0\ExceptionExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\ExceptionExercise\ExceptionExercise\obj\Debug\net6.0\ExceptionExercise.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\ExceptionExercise\ExceptionExercise\obj\Debug\net6.0\ExceptionExercise.AssemblyInfo.cs
+C:\Users\gusta\source\repos\ExceptionExercise\ExceptionExercise\obj\Debug\net6.0\ExceptionExercise.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\ExceptionExercise\ExceptionExercise\bin\Debug\net6.0\ExceptionExercise.exe
+C:\Users\gusta\source\repos\ExceptionExercise\ExceptionExercise\bin\Debug\net6.0\ExceptionExercise.deps.json
+C:\Users\gusta\source\repos\ExceptionExercise\ExceptionExercise\bin\Debug\net6.0\ExceptionExercise.runtimeconfig.json
+C:\Users\gusta\source\repos\ExceptionExercise\ExceptionExercise\bin\Debug\net6.0\ExceptionExercise.dll
+C:\Users\gusta\source\repos\ExceptionExercise\ExceptionExercise\bin\Debug\net6.0\ExceptionExercise.pdb
+C:\Users\gusta\source\repos\ExceptionExercise\ExceptionExercise\obj\Debug\net6.0\ExceptionExercise.dll
+C:\Users\gusta\source\repos\ExceptionExercise\ExceptionExercise\obj\Debug\net6.0\refint\ExceptionExercise.dll
+C:\Users\gusta\source\repos\ExceptionExercise\ExceptionExercise\obj\Debug\net6.0\ExceptionExercise.pdb
+C:\Users\gusta\source\repos\ExceptionExercise\ExceptionExercise\obj\Debug\net6.0\ExceptionExercise.genruntimeconfig.cache
+C:\Users\gusta\source\repos\ExceptionExercise\ExceptionExercise\obj\Debug\net6.0\ref\ExceptionExercise.dll

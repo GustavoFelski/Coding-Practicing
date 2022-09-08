@@ -1,0 +1,15 @@
+C:\Users\gusta\source\repos\MovieStruct\MovieStruct\bin\Debug\net6.0\MovieStruct.exe
+C:\Users\gusta\source\repos\MovieStruct\MovieStruct\bin\Debug\net6.0\MovieStruct.deps.json
+C:\Users\gusta\source\repos\MovieStruct\MovieStruct\bin\Debug\net6.0\MovieStruct.runtimeconfig.json
+C:\Users\gusta\source\repos\MovieStruct\MovieStruct\bin\Debug\net6.0\MovieStruct.dll
+C:\Users\gusta\source\repos\MovieStruct\MovieStruct\bin\Debug\net6.0\MovieStruct.pdb
+C:\Users\gusta\source\repos\MovieStruct\MovieStruct\obj\Debug\net6.0\MovieStruct.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\MovieStruct\MovieStruct\obj\Debug\net6.0\MovieStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\MovieStruct\MovieStruct\obj\Debug\net6.0\MovieStruct.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\MovieStruct\MovieStruct\obj\Debug\net6.0\MovieStruct.AssemblyInfo.cs
+C:\Users\gusta\source\repos\MovieStruct\MovieStruct\obj\Debug\net6.0\MovieStruct.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\MovieStruct\MovieStruct\obj\Debug\net6.0\MovieStruct.dll
+C:\Users\gusta\source\repos\MovieStruct\MovieStruct\obj\Debug\net6.0\refint\MovieStruct.dll
+C:\Users\gusta\source\repos\MovieStruct\MovieStruct\obj\Debug\net6.0\MovieStruct.pdb
+C:\Users\gusta\source\repos\MovieStruct\MovieStruct\obj\Debug\net6.0\MovieStruct.genruntimeconfig.cache
+C:\Users\gusta\source\repos\MovieStruct\MovieStruct\obj\Debug\net6.0\ref\MovieStruct.dll

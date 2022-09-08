@@ -1,0 +1,10 @@
+Name=Werewolf;
+Classe=Werewolf;
+Life=150;
+Damage=35;
+Resistence=20;
+Speed=-2;
+CriticalChance=20;
+MagicPoints=2;
+LightAttckName="Bite"
+HeavyAttackName="Shred";

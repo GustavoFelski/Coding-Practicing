@@ -1,0 +1,11 @@
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\RPGzinho\bin\Debug\netcoreapp3.1\RPGzinho.exe
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\RPGzinho\bin\Debug\netcoreapp3.1\RPGzinho.deps.json
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\RPGzinho\bin\Debug\netcoreapp3.1\RPGzinho.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\RPGzinho\bin\Debug\netcoreapp3.1\RPGzinho.runtimeconfig.dev.json
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\RPGzinho\bin\Debug\netcoreapp3.1\RPGzinho.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\RPGzinho\bin\Debug\netcoreapp3.1\RPGzinho.pdb
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\RPGzinho\obj\Debug\netcoreapp3.1\RPGzinho.csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\RPGzinho\obj\Debug\netcoreapp3.1\RPGzinho.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\RPGzinho\obj\Debug\netcoreapp3.1\RPGzinho.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\RPGzinho\obj\Debug\netcoreapp3.1\RPGzinho.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Coding-Practicing\RPGzinho\obj\Debug\netcoreapp3.1\RPGzinho.pdb

@@ -10,6 +10,7 @@ namespace MovieAssignments
     {
         static void Main(string[] args)
         {
+            try { 
             MovieInfo movieInfo1 = new MovieInfo();
             MovieInfo movieInfo2 = new MovieInfo();
 
@@ -32,10 +33,11 @@ namespace MovieAssignments
             movieInfo2.Genre[2] = Genres.Suspence;
             movieInfo2.Language[0] = Languages.English;
             movieInfo2.Country[0] = Countries.UnitedStates;
-            #endregion
-
-            movieInfo1.DisplayInfo();
-            movieInfo2.DisplayInfo();
+                #endregion
+            }
+            catch (Exception ex) { Console.WriteLine(ex.Message);
+           // movieInfo1.DisplayInfo();
+           // movieInfo2.DisplayInfo();
 
 
 
@@ -47,9 +49,9 @@ namespace MovieAssignments
         string movieName;
         string rate;
         DateOnly realeaseDate;
-        Genres[] genre;
-        Languages[] language;
-        Countries[] country;
+        Genres[] genre = new Genres[5];
+        Languages[] language = new Languages[5];
+        Countries[] country = new Countries[5];
 
         #region Properties Struct Movie
         public string MovieName { get; set; }
@@ -96,6 +98,7 @@ namespace MovieAssignments
     {
         UnitedKindom,
         UnitedStates
+    }
     }
 }
 

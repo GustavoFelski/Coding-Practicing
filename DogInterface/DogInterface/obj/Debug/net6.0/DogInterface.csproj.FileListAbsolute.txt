@@ -1,0 +1,15 @@
+C:\Users\gusta\source\repos\Coding-Practicing\DogInterface\DogInterface\obj\Debug\net6.0\DogInterface.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\Coding-Practicing\DogInterface\DogInterface\obj\Debug\net6.0\DogInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\Coding-Practicing\DogInterface\DogInterface\obj\Debug\net6.0\DogInterface.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\Coding-Practicing\DogInterface\DogInterface\obj\Debug\net6.0\DogInterface.AssemblyInfo.cs
+C:\Users\gusta\source\repos\Coding-Practicing\DogInterface\DogInterface\obj\Debug\net6.0\DogInterface.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\Coding-Practicing\DogInterface\DogInterface\bin\Debug\net6.0\DogInterface.exe
+C:\Users\gusta\source\repos\Coding-Practicing\DogInterface\DogInterface\bin\Debug\net6.0\DogInterface.deps.json
+C:\Users\gusta\source\repos\Coding-Practicing\DogInterface\DogInterface\bin\Debug\net6.0\DogInterface.runtimeconfig.json
+C:\Users\gusta\source\repos\Coding-Practicing\DogInterface\DogInterface\bin\Debug\net6.0\DogInterface.dll
+C:\Users\gusta\source\repos\Coding-Practicing\DogInterface\DogInterface\bin\Debug\net6.0\DogInterface.pdb
+C:\Users\gusta\source\repos\Coding-Practicing\DogInterface\DogInterface\obj\Debug\net6.0\DogInterface.dll
+C:\Users\gusta\source\repos\Coding-Practicing\DogInterface\DogInterface\obj\Debug\net6.0\refint\DogInterface.dll
+C:\Users\gusta\source\repos\Coding-Practicing\DogInterface\DogInterface\obj\Debug\net6.0\DogInterface.pdb
+C:\Users\gusta\source\repos\Coding-Practicing\DogInterface\DogInterface\obj\Debug\net6.0\DogInterface.genruntimeconfig.cache
+C:\Users\gusta\source\repos\Coding-Practicing\DogInterface\DogInterface\obj\Debug\net6.0\ref\DogInterface.dll

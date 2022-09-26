@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gusta\\source\\repos\\MovieStruct\\MovieStruct\\MovieStruct.csproj",
+      "projectUniqueName": "C:\\Users\\gusta\\source\\repos\\Coding-Practicing\\MovieStruct\\MovieStruct\\MovieStruct.csproj",
       "projectName": "MovieStruct",
-      "projectPath": "C:\\Users\\gusta\\source\\repos\\MovieStruct\\MovieStruct\\MovieStruct.csproj",
+      "projectPath": "C:\\Users\\gusta\\source\\repos\\Coding-Practicing\\MovieStruct\\MovieStruct\\MovieStruct.csproj",
       "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gusta\\source\\repos\\MovieStruct\\MovieStruct\\obj\\",
+      "outputPath": "C:\\Users\\gusta\\source\\repos\\Coding-Practicing\\MovieStruct\\MovieStruct\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",

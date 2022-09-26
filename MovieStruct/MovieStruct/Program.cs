@@ -10,6 +10,20 @@ namespace MovieAssignments
     {
         static void Main(string[] args)
         {
+            MovieInfo inceptionInfo = new MovieInfo();
+            inceptionInfo.Genre = new Genres[4];
+            inceptionInfo.Genre[0] = Genres.Drama;
+            inceptionInfo.Genre[1] = Genres.Mistery;
+            inceptionInfo.Genre[2] = Genres.Horror;
+            inceptionInfo.Genre[3] = Genres.Suspence;
+
+            inceptionInfo.Language = new Languages[1];
+            inceptionInfo.Language[0] = Languages.English;
+
+            inceptionInfo.Country = new Countries[2];
+            inceptionInfo.Country[0] = Countries.UnitedKindom;
+            inceptionInfo.Country[1] = Countries.UnitedStates;
+
             try { 
             MovieInfo movieInfo1 = new MovieInfo();
             MovieInfo movieInfo2 = new MovieInfo();
@@ -17,7 +31,8 @@ namespace MovieAssignments
             #region Movie 1
             movieInfo1.MovieName = "The Father";
             movieInfo1.Rate = "8,2";
-            //movieInfo1.RealeaseDate = DateOnly("11-03-2021");
+            //    movieInfo1.RealeaseDate = DateOnly(01,01,2019);
+            movieInfo1.Genre = new Genres[2];
             movieInfo1.Genre[0] = Genres.Drama;
             movieInfo1.Genre[1] = Genres.Mistery;
             movieInfo1.Language[0] = Languages.English;
@@ -34,24 +49,27 @@ namespace MovieAssignments
             movieInfo2.Language[0] = Languages.English;
             movieInfo2.Country[0] = Countries.UnitedStates;
                 #endregion
+
+
+            movieInfo1.DisplayInfo();
+            movieInfo2.DisplayInfo();
+
             }
-            catch (Exception ex) { Console.WriteLine(ex.Message);
-           // movieInfo1.DisplayInfo();
-           // movieInfo2.DisplayInfo();
-
-
-
+            catch (Exception ex) {
+                Console.WriteLine(ex.Message);
+            }
         }
     }
 
     struct MovieInfo
     {
-        string movieName;
-        string rate;
-        DateOnly realeaseDate;
-        Genres[] genre = new Genres[5];
-        Languages[] language = new Languages[5];
-        Countries[] country = new Countries[5];
+        private string movieName;
+        private string rate;
+        private DateTime realeaseDate;
+        private Genres[] genre;
+        private Languages[] language;
+        private Countries[] country;
+
 
         #region Properties Struct Movie
         public string MovieName { get; set; }
@@ -98,7 +116,6 @@ namespace MovieAssignments
     {
         UnitedKindom,
         UnitedStates
-    }
     }
 }
 

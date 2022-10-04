@@ -13,12 +13,12 @@ namespace ExerciseWR
     {
         static void Main(string[] args)
         {
-            string path = @"C:\Users\gusta\source\repos\Coding - Practicing\FileWRexercise";
-            FolderCreation newFolder = new FolderCreation(path);
-            for (int i = 0; i < (int)Enum.GetValues(typeof(languages)).Length; i++)
+            string path = @"C:\Users\gusta\source\repos\Coding - Practicing\FileWRexercise\";
+            FolderCreation newFolder = new FolderCreation();
+            Languages languages = new Languages();
+            for (int i = 0; i < (int)Enum.GetValues(typeof(Languages)).Length; i++)
             {
-                newFolder.FileCreation(/*languages*/, i);
-                
+                newFolder.FileCreation(languages.ToString(), i, path);
             }
             
         }
@@ -27,13 +27,16 @@ namespace ExerciseWR
     class FolderCreation
     {
         string pathFolder = string.Empty;
-        public FolderCreation(string path)
+        //public FolderCreation(string path)
+        //{
+        //    pathFolder = path;
+            
+        //}
+        public void FileCreation(string folderName, int counter, string path)
         {
-            pathFolder = path; 
-        }
-        public void FileCreation(string folderName, int counter)
-        {
-            pathFolder = (string)pathFolder.Concat("\\" + folderName);
+            pathFolder = path;
+            pathFolder.Concat($@"{folderName}");
+            Debug.WriteLine(pathFolder);
             Directory.CreateDirectory(pathFolder);
             //create logs and write
             FileWriter fw = new FileWriter();
@@ -45,12 +48,14 @@ namespace ExerciseWR
     {
         public void Writer(string path, int counter)
         {
-            StreamWriter sw = new StreamWriter((string)path.Concat("\\log.txt"),true);
+            path.Concat(@"\log.txt");
+            Debug.WriteLine(path);
+            StreamWriter sw = new StreamWriter(path,true);
             sw.WriteLine(DateTime.Now.ToString(), counter.ToString());
             sw.Close();
         }
     }
-    enum languages
+    enum Languages
     {
         Arabic,
         Azerbaijani,

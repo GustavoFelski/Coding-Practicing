@@ -1,0 +1,15 @@
+C:\Users\gusta\source\repos\Coding-Practicing\FileWRexercise\FileWRexercise\bin\Debug\net6.0\FileWRexercise.exe
+C:\Users\gusta\source\repos\Coding-Practicing\FileWRexercise\FileWRexercise\bin\Debug\net6.0\FileWRexercise.deps.json
+C:\Users\gusta\source\repos\Coding-Practicing\FileWRexercise\FileWRexercise\bin\Debug\net6.0\FileWRexercise.runtimeconfig.json
+C:\Users\gusta\source\repos\Coding-Practicing\FileWRexercise\FileWRexercise\bin\Debug\net6.0\FileWRexercise.dll
+C:\Users\gusta\source\repos\Coding-Practicing\FileWRexercise\FileWRexercise\bin\Debug\net6.0\FileWRexercise.pdb
+C:\Users\gusta\source\repos\Coding-Practicing\FileWRexercise\FileWRexercise\obj\Debug\net6.0\FileWRexercise.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\Coding-Practicing\FileWRexercise\FileWRexercise\obj\Debug\net6.0\FileWRexercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\Coding-Practicing\FileWRexercise\FileWRexercise\obj\Debug\net6.0\FileWRexercise.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\Coding-Practicing\FileWRexercise\FileWRexercise\obj\Debug\net6.0\FileWRexercise.AssemblyInfo.cs
+C:\Users\gusta\source\repos\Coding-Practicing\FileWRexercise\FileWRexercise\obj\Debug\net6.0\FileWRexercise.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\Coding-Practicing\FileWRexercise\FileWRexercise\obj\Debug\net6.0\FileWRexercise.dll
+C:\Users\gusta\source\repos\Coding-Practicing\FileWRexercise\FileWRexercise\obj\Debug\net6.0\refint\FileWRexercise.dll
+C:\Users\gusta\source\repos\Coding-Practicing\FileWRexercise\FileWRexercise\obj\Debug\net6.0\FileWRexercise.pdb
+C:\Users\gusta\source\repos\Coding-Practicing\FileWRexercise\FileWRexercise\obj\Debug\net6.0\FileWRexercise.genruntimeconfig.cache
+C:\Users\gusta\source\repos\Coding-Practicing\FileWRexercise\FileWRexercise\obj\Debug\net6.0\ref\FileWRexercise.dll
